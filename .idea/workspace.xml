@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41c5dd72-c9b1-49e9-9333-d5ce57b97a81" name="Default Changelist" comment="Fourth commit">
+      <change afterPath="$PROJECT_DIR$/Image/Screenshot-20210906080212-1017x731.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectReport/Screenshot-20211105082621-1906x973.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image/page1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Image/page1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LogFiles/AdultIncomePrediction.log" beforeDir="false" afterPath="$PROJECT_DIR$/LogFiles/AdultIncomePrediction.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LogFiles/DataBase.log" beforeDir="false" afterPath="$PROJECT_DIR$/LogFiles/DataBase.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/Databasedata.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Databasedata.html" afterDir="false" />
@@ -68,7 +72,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Image" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
@@ -221,7 +225,7 @@
       <workItem from="1630899463044" duration="1481000" />
       <workItem from="1635495129186" duration="1962000" />
       <workItem from="1635765717496" duration="54000" />
-      <workItem from="1636080850537" duration="46000" />
+      <workItem from="1636080850537" duration="1039000" />
     </task>
     <task id="LOCAL-00001" summary="Fourth Commit">
       <created>1629558999991</created>
@@ -494,7 +498,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Fourth commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AdultIncomePrediction_Project$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1630900338745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AdultIncomePrediction_Project$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1636080913278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AdultIncomePrediction_Project$forms.coverage" NAME="forms Coverage Results" MODIFIED="1628932216779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
